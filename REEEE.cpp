@@ -2,7 +2,7 @@
 //890459241
 #include <iostream>
 using namespace std;
-int reverseArray (int arr[], int n)
+void reverseArray (int arr[], int n)
 {
   int temp, start, end;
   end = n-1;
